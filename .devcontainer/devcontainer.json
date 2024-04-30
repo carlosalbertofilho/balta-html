@@ -10,7 +10,8 @@
 				"Zignd.html-css-class-completion",
 				"Elmtooling.elm-ls-vscode",
 				"elm-land.elm-land",
-				"ms-vscode.live-server"
+				"ms-vscode.live-server",
+				"GitHub.copilot"
 			]
 		}
 	}
